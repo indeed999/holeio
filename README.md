@@ -1,5 +1,5 @@
 # Hole.io
-Script to capture the leaderboard in the end of match in holo.io in BluStacks emulator
+Script to capture the leaderboard in the end of match in holo.io in BlueStacks emulator
 
 # Requirements
 1. BlueStacks emulator
