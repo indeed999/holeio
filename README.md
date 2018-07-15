@@ -8,4 +8,5 @@ Script to capture the leaderboard in the end of match in holo.io in BluStacks em
 
 # Example
 5 games in a row
+
 ![example](https://i.imgur.com/qwsOyf1.png)
